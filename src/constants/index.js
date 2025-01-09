@@ -456,7 +456,7 @@ export const experiences = [
     positions: [
       {
         title: "Senior Full Stack Blockchain Developer",
-        duration: "Apr 2022 - Sep 2023",
+        duration: "Apr 2022 - Present",
         content: [
           {
             text: "Hosted and configured CI/CD Pipelines for the landing page with AWS EC2, CodeBuild and CodeDeploy in company landing page",
